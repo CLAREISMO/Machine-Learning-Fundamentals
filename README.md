@@ -12,3 +12,5 @@ Enjoy!﻿
 
 <span style="color:blue">some *blue* HHHHHIIII </span>.
 
+<span style="color:red"> *some emphasized markdown text*</span>
+
