@@ -10,8 +10,8 @@ Enjoy!﻿
 
 ## **1. Fundamentals of Linear Algebra** 
 
-$${\color{blue}Fundamentals of Linear Algebr}$$
+# Scalars (Rank 0 Tensors) in Base Python:![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/f4b194a3-f970-4cde-a955-a18a5fab1fd2)
 
-$${\color{blue}Blue}$$
+
 
 
