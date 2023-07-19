@@ -14,3 +14,6 @@ Enjoy!﻿
 
 <span style="color:red"> *HHHIIIII*</span>
 
+$${\color{red}Red}$$
+
+
