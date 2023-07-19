@@ -20,7 +20,12 @@ Enjoy!﻿
 \textcolor{LimeGreen}{Hola}
 
 
-
+1
+2
+3
+\textcolor{red}{texto de color rojo}
+ 
+{\color{magenta} texto en color rosa raro}
 
 
 $${\color{blue}Blue}$$
