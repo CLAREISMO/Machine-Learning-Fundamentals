@@ -25,6 +25,7 @@ color = red
 // Valor nombre de Color
 <p style="color: skyblue">¡Bienvenido a freeCodeCamp!</p>
 
+
 // Valor Hexadecimal 
 <p style="color: #87CEEB">¡Bienvenido a freeCodeCamp!</p>
 
@@ -33,3 +34,8 @@ color = red
 
 // Valor HSL 
 <p style="color: hsl(197, 71%, 73%)">¡Bienvenido a freeCodeCamp!</p>
+
+
+<br>
+<FONT COLOR="blue">Texto AZUL </FONT>
+<br>
