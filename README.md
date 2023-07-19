@@ -18,16 +18,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 # **Machine-Learning-Fundamentals** <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px">
 
-# LINEAR ALGEBRA FUNDAMENTALS:![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/3e4b1c7e-4d67-4619-9173-a2a74c174039)
-
-
-
-
-
 
 ## **1. Fundamentals of Linear Algebra** 
 
-# Scalars (Rank 0 Tensors) in Base Python:![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/f4b194a3-f970-4cde-a955-a18a5fab1fd2)
+
 
 
 
