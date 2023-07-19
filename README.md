@@ -9,4 +9,7 @@ Enjoy!﻿
 
 
 
-<font color = red   **1. Fundamentals of Linear Algebra** </font>
+<font 
+color = red   
+**1. Fundamentals of Linear Algebra** 
+</font>
