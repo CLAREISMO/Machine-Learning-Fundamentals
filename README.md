@@ -10,3 +10,5 @@ Enjoy!﻿
    
 ## **1. Fundamentals of Linear Algebra** 
 
+<span style="color:blue">some *blue* HHHHHIIII </span>.
+
