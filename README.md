@@ -7,11 +7,11 @@
 
 
 
-**In this repository, you will find the basics that every enthusiastic programmer needs to enter the amazing world of Machine Learning! 
+**In this repository, you will find the basics that every enthusiastic programmer needs to enter the amazing world of Machine Learning!**
 
-I will apply in all the development the most popular automatic differentiation libraries Pytorch and Tensorflow and of course, I will work in the most important programming language in ML Python, which is the base of these amazing libraries.
+**I will apply in all the development the most popular automatic differentiation libraries Pytorch and Tensorflow and of course, I will work in the most important programming language in ML Python, which is the base of these amazing libraries.**
 
-Enjoy!﻿**
+**Enjoy!﻿**
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
