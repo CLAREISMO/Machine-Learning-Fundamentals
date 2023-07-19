@@ -1,0 +1,17 @@
+#*Scalars(Rank 0 Tensors)in Base Python
+
+x = 25
+print(x)
+print(type(x)) # if we'd like more specificity (e.g., int16, uint8), 
+               #we need NumPy or another numeric library
+
+y = 3
+
+sum = (x + y)
+print(sum)
+print(type(sum))
+
+x_float = 25.0
+float_sum = x_float + y
+print(float_sum)
+print(type(float_sum))
