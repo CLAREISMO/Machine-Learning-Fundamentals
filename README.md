@@ -7,6 +7,10 @@ I will apply in all the development the most popular automatic differentiation l
 Enjoy!﻿
 
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+LINEAR ALGEBRA FUNDAMENTALS![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/60bef5c8-5e68-40d6-942c-b7a65b53c6f7)
+
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/56ef3fa9-40cb-4e3b-aecc-1f78599ecab5)
 
