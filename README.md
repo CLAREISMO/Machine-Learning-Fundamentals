@@ -14,6 +14,6 @@ Enjoy!﻿
 
 <span style="color:red"> *HHHIIIII*</span>
 
-$${\color{red}Red}$$
+$${\color{red} **1. Fundamentals of Linear Algebra** }$$
 
 
