@@ -7,26 +7,10 @@ I will apply in all the development the most popular automatic differentiation l
 Enjoy!﻿
 
 
-## {\color{blue} **1. Linear Algebra Fundamentals** }
+
 ## **1. Fundamentals of Linear Algebra** 
 
-<span style="color:blue">some *blue* HHHHHIIII </span>.
-
-<span style="color:red"> *HHHIIIII*</span>
-
-## $${\color{blue} **1. Linear Algebra Fundamentals** }$$
-
-
-\textcolor{LimeGreen}{Hola}
-
-
-1
-2
-3
-\textcolor{red}{texto de color rojo}
- 
-{\color{magenta} texto en color rosa raro}
-
+$${\color{blue}Fundamentals of Linear Algebr}$$
 
 $${\color{blue}Blue}$$
 
