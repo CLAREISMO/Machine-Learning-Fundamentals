@@ -9,6 +9,9 @@ Enjoy!﻿
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+# LINEAR ALGEBRA FUNDAMENTALS:![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/3e4b1c7e-4d67-4619-9173-a2a74c174039)
+
+
 LINEAR ALGEBRA FUNDAMENTALS![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/60bef5c8-5e68-40d6-942c-b7a65b53c6f7)
 
 
