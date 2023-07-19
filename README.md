@@ -7,4 +7,4 @@ I will apply in all the development the most popular automatic differentiation l
 Enjoy!﻿
 
 
-# **Fundamentals of Linear Algebra**
+**Fundamentals of Linear Algebra**
