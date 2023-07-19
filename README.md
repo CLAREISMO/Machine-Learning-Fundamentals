@@ -15,27 +15,6 @@ color = red
 </font>
 
 
-<font color="#9900FF"> Fundamentals of Linear Algebra  </font>
-
-
-
-<font color="green"> Bienvenido a freeCodeCamp. </font> 
-
-
-// Valor nombre de Color
-<p style="color: skyblue">¡Bienvenido a freeCodeCamp!</p>
-
-
-// Valor Hexadecimal 
-<p style="color: #87CEEB">¡Bienvenido a freeCodeCamp!</p>
-
-// Valor RGB 
-<p style="color: rgb(135,206,235)">¡Bienvenido a freeCodeCamp!</p>
-
-// Valor HSL 
-<p style="color: hsl(197, 71%, 73%)">¡Bienvenido a freeCodeCamp!</p>
-
-
 <br>
 <FONT COLOR="blue">Texto AZUL </FONT>
 <br>
