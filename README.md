@@ -7,7 +7,7 @@ I will apply in all the development the most popular automatic differentiation l
 Enjoy!﻿
 
 
-## ${\color{blue} **1. Linear Algebra Fundamentals** }$   
+## {\color{blue} **1. Linear Algebra Fundamentals** }
 ## **1. Fundamentals of Linear Algebra** 
 
 <span style="color:blue">some *blue* HHHHHIIII </span>.
