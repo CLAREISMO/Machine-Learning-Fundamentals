@@ -8,7 +8,7 @@ Enjoy!﻿
 
 
 
-<FONT COLOR="blue"> 1. Fundamentals of Linear Algebra  AZUL </FONT>
+<FONT COLOR="blue"> 1. Fundamentals of Linear Algebra  </FONT>
 <font 
 color = red   
 **1. Fundamentals of Linear Algebra** 
