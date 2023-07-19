@@ -16,4 +16,6 @@ Enjoy!﻿
 
 $${\color{red} **1. Fundamentals of Linear Algebra** }$$
 
+$${\color{blue}Blue}$$
+
 
