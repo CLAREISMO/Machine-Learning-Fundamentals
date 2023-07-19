@@ -2,6 +2,9 @@
 
 # **![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/4f05d5a8-920b-49f8-afb5-8e0d19da3fff)**  <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px">
 
+# **![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/0fd0484c-f102-434b-a21d-2a37a805e81b)## <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px">
+
+
 
 
 In this repository, you will find the basics that every enthusiastic programmer needs to enter the amazing world of Machine Learning! 
