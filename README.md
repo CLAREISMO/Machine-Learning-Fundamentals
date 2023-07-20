@@ -50,7 +50,26 @@ The most common data structure in linear algebra for machine learning is the ten
 
 The simplest type of tensor has a dimension of zero and is called a scalar. Therefore a scalar is a single number that is denoted in lowercase and italics.
 
-**Example: **
+**Example:**
+
+![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/412dd9db-4e84-468a-9a67-a1e7b4f1dbb5)
+
+
+The simplest type of tensor has a dimension of zero and is called a scalar. Therefore a scalar is a single number that is denoted in lowercase and italics.
+
+In VSC we can see how the scalar x is assigned the value of 25 and we print its type which is int.
+
+Likewise, we create another scalar named with the letter y which is assigned the value of 3. 
+
+We make the sum between the scalars x and y. We obtain as a result the value 28 which is stored in the variable sum. When we print the type of this variable we obtain the type int. This is due to the fact that both variables are of type integer.
+
+We also observe the creation of the variable x_float which stores the quantity 25.0 and is of floating type when we add it with the variable y we obtain the quantity 28.0 of scalar type. This result is expected since it is typical behavior of the Python language; if we add an int with a float Python by default transforms the int to a float type value so the operation is performed between two float type values and the result will be a float type quantity.
+
+We can see the output below:
+
+![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/3c877cb5-10e1-4e28-8f40-924b259de424)
+
+
 
 
 
