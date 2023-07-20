@@ -14,7 +14,7 @@
 ## ***Data Structures for Algebra***
 
 
-###**Introduction**
+### **Introduction**
 
 
 
