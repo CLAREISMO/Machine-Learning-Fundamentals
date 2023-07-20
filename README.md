@@ -43,7 +43,7 @@ The most common data structure in linear algebra for machine learning is the ten
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/3b5e0137-5bdc-4eb7-9162-e4d52fa74d28)
 
-Scalars![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/02a42ff1-90a6-4d6b-ad27-e13ddcd1d62d)
+![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/02a42ff1-90a6-4d6b-ad27-e13ddcd1d62d)
 
 
 
