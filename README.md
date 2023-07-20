@@ -72,12 +72,20 @@ We can see the output below:
 
 
 
-### 2. Scalars in PyTorch ###
+###2. Scalars in PyTorch###
 
 First, we have to install the Pytorch library with the following steps
 1. Upgrade pip with the command: python.exe -m pip install --upgrade pip
 2. Create a virtual environment, if you have never created a virtual environment you can follow this video: https://www.youtube.com/watch?v=aJggnCVeacs
 3. Install the library with the following command: pip install torch
+
+The process is shown below  in my case I already have an env created from the beginning of the project, for this reason, there is no evidence of the creation at this point:
+
+![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/40a5e704-14bb-4bc6-aa5e-a69200b79962)
+
+![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/7a20a2fa-b696-4dff-a345-a9eb96c349c5)
+
+
 
 
 
