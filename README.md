@@ -74,6 +74,11 @@ We can see the output below:
 
 ### 2. Scalars in PyTorch ###
 
+First, we have to install the Pytorch library with the following steps
+1. Upgrade pip with the command: python.exe -m pip install --upgrade pip
+2. Create a virtual environment, if you have never created a virtual environment you can follow this video: https://www.youtube.com/watch?v=aJggnCVeacs
+3. Install the library with the following command: pip install torch
+
 
 
 
