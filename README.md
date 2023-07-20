@@ -11,8 +11,8 @@
 
 
 
-## **1.Data Structures for Algebra![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/a6eb8af6-b0af-49d7-b18e-92d91c65279c)
- Fundamentals of Linear Algebra** 
+## **1.Data Structures for Algebra**
+ 
 
 
 
