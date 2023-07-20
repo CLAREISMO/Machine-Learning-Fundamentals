@@ -45,6 +45,10 @@ The most common data structure in linear algebra for machine learning is the ten
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/02a42ff1-90a6-4d6b-ad27-e13ddcd1d62d)
 
+The simplest type of tensor has a dimension of zero and is called a scalar. Therefore a scalar is a single number that is denoted in lowercase and italics.
+
+**Example**
+
 
 
 ﻿
