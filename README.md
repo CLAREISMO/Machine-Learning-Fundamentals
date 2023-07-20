@@ -11,7 +11,7 @@
 
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/f6ca8024-1ec1-4620-9f3d-3bf07de135b0)
-## ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/e808366b-d45b-4b30-8c84-61b2ed5291a0)
+## **![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/e808366b-d45b-4b30-8c84-61b2ed5291a0)**
 
 
 
