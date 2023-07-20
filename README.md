@@ -75,7 +75,7 @@ We can see the output below:
 
 
 
-###2. Scalars in PyTorch###
+###2. Scalars in PyTorch
 
 First, we have to install the Pytorch library with the following steps
 1. Upgrade pip with the command: python.exe -m pip install --upgrade pip
@@ -90,7 +90,9 @@ The process is shown below  in my case I already have an env created from the be
 
 
 
+**PyTorch, TensorFlow, and Python**
 
+PyTorch and TensorFlow are the two most popular automatic differentiation libraries. The differentiation process is very useful because it allows a large number of machine learning algorithms to be optimized, which is why PyTorch and TensorFlow are the two most popular automatic differentiation libraries today. And Python, on which these libraries are based, is the most popular programming language in machine learning. 
 
 
 
