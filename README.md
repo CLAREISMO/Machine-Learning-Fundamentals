@@ -75,7 +75,7 @@ We can see the output below:
 
 
 
-###2. Scalars in PyTorch
+### **2. Scalars in PyTorch**
 
 First, we have to install the Pytorch library with the following steps
 1. Upgrade pip with the command: python.exe -m pip install --upgrade pip
