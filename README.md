@@ -47,7 +47,10 @@ The most common data structure in linear algebra for machine learning is the ten
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/02a42ff1-90a6-4d6b-ad27-e13ddcd1d62d)
 
-Scalars (Rank 0 Tensors) in Base Python:![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/6a2626fb-a312-4c8b-9c87-df514c4753c7)
+Scalars (Rank 0 Tensors) in Base Python:![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/adae5ae8-c45e-484b-8b4c-cae4dda5f0d3)
+
+
+### 1.Scalars (Rank 0 Tensors) in Base Python ###
 
 
 The simplest type of tensor has a dimension of zero and is called a scalar. Therefore a scalar is a single number that is denoted in lowercase and italics.
