@@ -40,6 +40,10 @@ The most common data structure in linear algebra for machine learning is the ten
 
 + And then in higher dimensionalities in n dimensions, we call this an n-tensor. So if it's six-dimensional, then it's a 6-tensor. And yes, this is higher dimensional and harder to visualize.
 
+
+![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/3b5e0137-5bdc-4eb7-9162-e4d52fa74d28)
+
+
 ﻿
 
 🤝
