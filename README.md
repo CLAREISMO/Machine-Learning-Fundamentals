@@ -14,6 +14,9 @@
 ## ***Data Structures for Algebra***
 
 
+###**Introduction**
+
+
 
 ### ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/9185fb8a-f966-423e-a849-61e0e4b0940c)
 
