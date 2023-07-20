@@ -9,6 +9,9 @@
 
 **Enjoy!﻿**
 
+**![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/4df26f7c-2948-474f-a23d-c0a60743d59b)**
+
+
 
 
 ## **1. Fundamentals of Linear Algebra** 
