@@ -14,10 +14,6 @@
 **Enjoy!﻿**
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-# **Machine-Learning-Fundamentals** <img src="https://media.tenor.com/eT_e-q0D5xoAAAAi/long-livethe-blob-sunglasses.gif" width="50px">
-
 
 ## **1. Fundamentals of Linear Algebra** 
 
