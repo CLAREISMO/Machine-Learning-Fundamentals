@@ -12,6 +12,8 @@
 **![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/4df26f7c-2948-474f-a23d-c0a60743d59b)**
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/ea46b8b2-b034-4af8-af2e-e445facc408d)
+Data Structures for Algebra![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/38c3e9cf-2da9-40f1-a544-fdaa8d90eaec)
+
 
 
 
