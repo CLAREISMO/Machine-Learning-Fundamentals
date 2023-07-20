@@ -9,15 +9,8 @@
 
 **Enjoy!﻿**
 
-	1. Data Structures for Algebra
 
-
-Esta es la Lección 2, que se centra en los tensores, la estructura de datos fundamental del álgebra lineal. 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/f6ca8024-1ec1-4620-9f3d-3bf07de135b0)
-
-
-
-## ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/916b83be-9cf8-4389-b5f1-472cbde3e7b5)
 
 
 ## **1. Fundamentals of Linear Algebra** 
