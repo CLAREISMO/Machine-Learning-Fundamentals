@@ -72,6 +72,12 @@ We can see the output below:
 
 
 
+###**2. Scalars in PyTorch**###
+
+
+
+
+
 
 ﻿
 
