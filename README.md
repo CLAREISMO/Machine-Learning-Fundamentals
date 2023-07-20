@@ -14,6 +14,9 @@
 
 
 ## ***Data Structures for Algebra***
+
+Tensors![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/692fb395-8bbf-4f28-8a9d-fb8c8e66baee)
+
  
 
 
