@@ -29,7 +29,7 @@ The most common data structure in linear algebra for machine learning is the ten
 
 **We can conclude from the above that:**
 
-+ A zero-dimensional tensor, we can mathematically call it a scalar, and represents magnitude only. Just as the number 25 is a single value here. It could mean 25 meters. It represents magnitude only, size only. 
++ A zero-dimensional tensor, we can mathematically call it a scalar and represents magnitude only. Just as the number 25 is a single value here. It could mean 25 meters. It represents magnitude only, size only. 
 
 + A one-dimensional tensor is a vector, and this is typically an array of numbers. And I should also say here that it doesn't have to be typically integers or stream values. It could be strings or character strings, but in machine learning it's typically numerical values, typically float values. So a vector tensor is likely to be a matrix of numbers, a one-dimensional array of numbers. 
 
@@ -42,6 +42,9 @@ The most common data structure in linear algebra for machine learning is the ten
 
 
 ![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/3b5e0137-5bdc-4eb7-9162-e4d52fa74d28)
+
+Scalars![image](https://github.com/CLAREISMO/Machine-Learning-Fundamentals/assets/63759427/02a42ff1-90a6-4d6b-ad27-e13ddcd1d62d)
+
 
 
 ﻿
